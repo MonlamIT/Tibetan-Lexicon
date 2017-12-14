@@ -11,7 +11,7 @@ This list for Auto-keyboard, it is included more than one hundred thousand words
 
 New text:
 
-Tibetan-word-list
+# Tibetan-word-list
 
 This is a Tibetan word list of 107,000 entries. It is sorted alphabetically. 
 
