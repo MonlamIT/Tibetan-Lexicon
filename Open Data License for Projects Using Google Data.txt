@@ -1,0 +1,32 @@
+**License Title:** Monlam Dict-Index Open Data License
+
+**Preamble:**
+This document outlines the terms and conditions under which Monlam Dict-Index ("the project") provides access to the data compiled, created, and maintained by the project team. The data provided by the project may include data sourced from Google services, in accordance with the terms of service of the respective Google services. This license is designed to promote the open use, sharing, and modification of the data within the bounds of legal and ethical considerations.
+
+**1. Definitions**
+- "Data": Any data files, databases, or other data content provided under this license, including but not limited to data derived from or based on data sourced from Google services.
+- "Lobsang Monlam": Any individual or entity that accesses or uses the Data under this license.
+
+**2. License Grant**
+- Subject to the terms and conditions of this License, Monlam Dict-Index grants You a worldwide, royalty-free, non-exclusive, perpetual license to use, reproduce, modify, and distribute the Data, in whole or in part, for any lawful purpose.
+
+**3. Conditions**
+- **Attribution:** You must provide appropriate credit to Monlam Dict-Index and, if applicable, the sources from which the Data is derived, including Google, in a manner specified by Monlam Dict-Index, but not in any way that suggests endorsement Monlam Dict-Index or Google.
+- **ShareAlike:** If You modify or build upon the Data, You must distribute Your contributions under the same license as the original Data.
+- **Compliance with Google's Terms:** Your use of Data derived from Google services must comply with the terms of service of the respective Google services.
+
+**4. Restrictions**
+- You may not use the Data in a way that suggests an endorsement or partnership with [Your Project] or Google without explicit permission.
+- The Data is provided "as is", and Monlam Dict-Index disclaims all warranties with respect to the Data to the fullest extent permitted by law.
+
+**5. Termination**
+- This license and the rights granted hereunder will terminate automatically if You fail to comply with terms herein and fail to cure such breach within 30 days of becoming aware of the breach.
+
+**6. Disclaimer**
+- Monlam Dict-Index provides the Data on an "as is" basis and disclaims all warranties with respect to the Data. [Your Project] will not be liable for any errors or omissions in the Data or for any loss, injury, or damage caused by the use of the Data.
+
+**7. Jurisdiction**
+- This License is governed by the laws of Jurisdiction, without regard to its conflict of law principles.
+
+**Conclusion**
+By accessing or using the Data, You agree to be bound by the terms and conditions of this License.
