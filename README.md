@@ -1,3 +1,8 @@
 # Tibetan-Lexicon
 
-This is a list of Tibetan words with 367,011 and 107,000 entries. It is sorted alphabetically. In the future, we will add frequency data and sort the list by frequency so that the list can be used for keyboard auto-completion applications.
+This repo contains lists of Tibetan words based on the entries of the Monlam Dictionary. 
+
+- file-name - this list contains 367,011 entries. 
+- file-name - this list contains 107,000 entries. 
+
+The lists are sorted alphabetically. In the future, we will add frequency data and sort them by frequency so that the data can be used for keyboard auto-complete and other applications. 
